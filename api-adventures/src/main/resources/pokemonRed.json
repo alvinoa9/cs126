@@ -1,0 +1,75 @@
+{
+  "palletTown": [{
+    "name": "Player's House",
+    "description": "left of Town Square.",
+    "items": ["rare candy"],
+    "visited": false,
+    "path": ["back to town"],
+    "imageURL": "https://pm1.narvii.com/5802/be65da40df53b62b6317500b90dd6385e279629b_hq.jpg",
+    "videoURL": "https://www.youtube.com/watch?v=6xKWiCMKKJg"
+  }, {
+    "name": "Rival's House",
+    "description": "down of Town Square.",
+    "items": ["town map"],
+    "visited": false,
+    "path": ["back to town"],
+    "imageURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9539f935-5116-4483-a95c-c1e57640f11e/dac7s69-f584039d-f784-42ad-b93e-b7a6c10d016c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOTUzOWY5MzUtNTExNi00NDgzLWE5NWMtYzFlNTc2NDBmMTFlXC9kYWM3czY5LWY1ODQwMzlkLWY3ODQtNDJhZC1iOTNlLWI3YTZjMTBkMDE2Yy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.KSrubBECTjqDsZdp6jKeBRiG0KvNHJ2x-hCTpaFcxO8",
+    "videoURL": "https://www.youtube.com/watch?v=xy_NKN75Jhw"
+  }, {
+    "name": "Professor Oak: Welcome!\nProfessor Oak: Choose a pokemon to get your journey started.\n Defeat your rival, Gary, in Plains 3.",
+    "description": "",
+    "items": [],
+    "visited": false,
+    "path": ["Charmander", "Squirtle", "Bulbasaur"],
+    "imageURL": "https://pm1.narvii.com/7009/6c724fde4aaab8e69416df675728f0591a601281r1-423-527v2_hq.jpg",
+    "videoURL": "https://www.youtube.com/watch?v=aPXtlbzjBls"
+  }, {
+    "name": "Professor Oak's Lab",
+    "description": "right of Town Square.",
+    "items": [],
+    "visited": false,
+    "path": ["talk to professor oak", "back to town"],
+    "imageURL": "https://www.teechu.com/wp-content/uploads/2018/08/pokemon-professor-oak-facts-trivia.jpg",
+    "videoURL": "https://www.youtube.com/watch?v=aPXtlbzjBls"
+  }, {
+    "name": "Town Square",
+    "description": "the middle of the town. \nLeft is your house. \nRight is Professor Oak's Lab. \nUp is plains. \nDown is rival's house.",
+    "items": [],
+    "visited": false,
+    "path": ["left", "right", "up", "down"],
+    "imageURL": "https://i.pinimg.com/originals/1f/54/8b/1f548b23b9593e31b58d2e23c70f2293.png",
+    "videoURL": "https://www.youtube.com/watch?v=sjORmqeCpPE"
+  }, {
+    "name": "Plains 1",
+    "description":"up of the Town Square",
+    "items": [],
+    "visited": false,
+    "path": ["fight", "run (back to town)"],
+    "imageURL": "https://64.media.tumblr.com/0e18049a09dd38a6de46749ce788c97b/tumblr_mxiy03tHAQ1ss5ncwo1_500.gifv",
+    "videoURL": "https://www.youtube.com/watch?v=eBNcjvxLfFc"
+  }, {
+    "name": "Plains 2",
+    "description": "up of Plains 1",
+    "items": [],
+    "visited": false,
+    "path": ["fight", "run (back to plains 1)"],
+    "imageURL": "https://i.gifer.com/PCPy.gif",
+    "videoURL": "https://www.youtube.com/watch?v=eBNcjvxLfFc"
+  }, {
+    "name": "Plains 3",
+    "description": "up of Plains 2. Gary is waiting to fight.",
+    "items": [],
+    "visited": false,
+    "path": ["fight", "run (back to plains 2)"],
+    "imageURL": "https://i.ytimg.com/vi/29RHijh7Fcs/maxresdefault.jpg",
+    "videoURL": "https://www.youtube.com/watch?v=uUY5KjHwczY"
+  }, {
+    "name": "Congratulation!",
+    "description": "you have defeated Gary.",
+    "items": [],
+    "visited": false,
+    "path": [],
+    "imageURL": "data:image/png;base64,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",
+    "videoURL": "https://www.youtube.com/watch?v=NFch6XO5I_c"
+  }]
+}

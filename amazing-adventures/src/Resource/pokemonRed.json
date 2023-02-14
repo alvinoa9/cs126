@@ -1,0 +1,45 @@
+{
+  "palletTown": [{
+    "name": "Player's House",
+    "description": "left of Town Square.",
+    "items": ["rare candy"],
+    "visited": false,
+    "path": "Back to town"
+  }, {
+    "name": "Rival's House",
+    "description": "down of Town Square.",
+    "items": ["town map"],
+    "visited": false,
+    "path": "Back to town"
+  }, {
+    "name": "Professor Oak's Lab",
+    "description": "right of Town Square.",
+    "items": [],
+    "visited": false,
+    "path": "Talk to Professor Oak or back to town"
+  }, {
+    "name": "Town Square",
+    "description": "the middle of the town. \nLeft is your house. \nRight is Professor Oak's Lab. \nUp is plains. \nDown is rival's house.",
+    "items": [],
+    "visited": false,
+    "path": "Left, Right, Up or Down"
+  }, {
+    "name": "Plains 1",
+    "description":"up of the Town Square",
+    "items": [],
+    "visited": false,
+    "path": "Fight or Run (back to town)"
+  }, {
+    "name": "Plains 2",
+    "description": "up of Plains 1",
+    "items": [],
+    "visited": false,
+    "path": "Fight or Run (back to Plains 1)"
+  }, {
+    "name": "Plains 3",
+    "description": "up of Plains 2. Gary is waiting to fight.",
+    "items": [],
+    "visited": false,
+    "path": "Fight or Run (back to Plains 2)"
+  }]
+}
